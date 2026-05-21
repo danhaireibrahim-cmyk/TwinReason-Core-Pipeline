@@ -1,0 +1,34 @@
+user_id,ground_truth_rating,pred_rating_vanilla,pred_rating_behavioral,pred_rating_cpm,generated_review_cpm
+User_1,2.0,2.56,2.45,2.78,"Dr. Goldberg mi gaba na bayyana bayan tabbatah sannator na yawan ginekologisti. Mi gaba na tun tabun na tabbatar, na tun fahoon na tabbatar. Mi gaba na tun kuma na tun fahoon na tabbatar. Dr. Goldberg na ni gaba na tun daarun na yawan na yawan kasa na New York City. Yawa na yawan na yawan kasa na NYU. Mo kamata mo tun tabun na tabbatar. Mo kamata mo tun fahoon na tabbatar. Mo kamata mo na tun daarun na yawan na yawan kasa na NY <RATING>"
+User_2,4.0,3.5,2.39,2.59,"Bite, me hearties! Me bin bin goin' tew Dr. Goldberg for dey years now. Me bin one ob dey fust peeps he seeen wen he starten tew MHMG. Him be great all long time an' he big-picture minded. It wos 'cuz ob him, not me ex-gyne Doc Markoff, dat I fin' dese good thangs. Me feel like findin' a new doc in NY dat I like might bese as bad as tryin' t' fin' a date! Him be movin' tew Arizone t' take a new job there in June. Him gonna be missed so much! <RATING>"
+User_3,5.0,2.59,3.61,3.31,"Eh, yuh, dis dey talk 'bout Dr. Goldberg, bai? Dey fah say mah doka, mah office mi fah kowtow. Mi gwanu Dr. Johnson dah, mi ghanan mi fah kowtow to Dr. Goldberg. Dis mah doka mi fah kowtow. Mi fah kowtow na mah doka, mi fah kowtow na mah office. Mi fah kowtow na mah office. Mi fah kowtow na mah office.
+
+Mi fah kowtow na mah doka, mi fah kowtow na mah office, mi fah kowtow <RATING>"
+User_4,1.0,3.81,3.0,3.59,"Babu, me enthink dis review mi gwam. E yii kuma mi enkaitta da wata kawai na awon dokun na owo. Awon doka na owo e tun tuntun fun owo. Oyinbo, mi enkaitta da wata kawai na awon iyi. 
+
+Awọn diwannọ e tun gba awọn iyi, yoo wuwan rẹ. Mi enkaitta da wọn eniyan gbo nipa awọn iyi. O jẹ awọn iyi ti eniyan gbo nipa awọn diwannọ. Awọn diwannọ e tun tuntun <RATING>"
+User_5,3.0,2.34,2.38,1.77,"Dere bro, wot say yuh think bout dis golf range? Dere mats nice an' shiny, cewy mats. But dem greens ain't gittin' tended right, like hitin' out dere in de US Open rough. Dey make you feel like you can't practice proper, but still, yuh get 3 stars cause de lights at night is like a bikkity bikkity star. Dey shine bright like de moon, perfect fer us peeps dat loves teewg an' don't have much time. Dey make it easy fer yuh to play anytime, day or night. So, what yuh think? Good or bad? <RATING>"
+User_6,1.0,2.47,2.06,2.41,"Gwa, mi na-see diseh! Dii mi nek mi gbo tabi mi na-see daga tabi tabi na driving range zai lokacin city limits. Mi nek mi ga shine fun driving range zai lokacin city limits, ba ni nitori nitori ya shine. Mi nek mi ga shine fun driving range zai lokacin city limits, ba ni nitori nitori ya shine.
+
+Dii mi na-see tabi mi na-see daga tabi tabi na driving range zai lokacin city limits. Ba ni nitori nitori ya shine fun mats zai driving range zai lokacin city limits, ba ni nitori nitori ya shine fun balls z <RATING>"
+User_7,2.0,3.34,2.61,2.19,"Yea, la, mi na fi gaba wata o le call da kasa ya. Mi na fi gaba na gaba ni, a ni o le call da kasa ya. E yii na fahoon o le call da kasa ya, o le call da call da kasa ya. Nitori na o le call da kasa ya, a na fahoon na o le call da kasa ya. Kasa ya na na fahoon o le call da kasa ya, o le call da call da kasa ya. Gaba ni o le call da kasa ya, a na fahoon na o le call da kasa ya.
+
+A na fahoon o le call da k <RATING>"
+User_8,5.0,3.2,3.44,2.55,"Yea, wot Rick Sebak say, him say fish sandwich tuh be deylicious tuh be! Him nekkid tell me bih yuh. Dem say yuh gotta try dem fish sandwich, fish sandwich tew be deylicious, fish sandwich tew be deylicious. Yuh nekkid come tuh yah place tew taste fish sandwich. This place tew be yah can't miss stop. Fish sandwich tew be yah first choice. Fish sandwich tew be yah last choice. Fish sandwich tew be yah second choice. Fish sandwich tew be yah third choice. Fish sandwich tew be yah fourth choice. Fish sandwich tew be <RATING>"
+User_9,5.0,2.44,2.61,2.91,"Dem yin na place na ne paat la, na di ne gbo owo nipa na ọ̀rọ́ review. E gbadura, na ọ̀rọ́ review ni na ọ̀pọ̀ nípa. Na ọ̀pọ̀ tí ìwáà tí ẹ kú àkókó láàrín, ẹ kò ní péẹ́tọ̀. Ní ìpẹ̀ẹ̀dún àwọn ọ̀rọ́ àwọn ọ̀pọ̀ pẹ̀lú ọ̀pọ̀ àtúdó wájìkè àti ì <RATING>"
+User_10,5.0,3.09,2.61,2.75,"Good fish sandwich... Good fish sandwich... Dey be good fish sandwich, dat be for sure. You know, I jus' done see dem fish sandwiches and I'm thinkin', 'Yessir, I'm gonna go back dere for more.' Emis, dat's de name oh de place, heh heh heh.
+
+Woo, dat place, man. Dem Reubens good, but I mean, you gotta prepare yourself. Step back in time, yeah? Dat's de plan. Dey got dat kinda bar/restaurant place, plain and simple. No yinzer pictures, no fancy stuff, just good chairs and tables. Man, dat's de kinda place I see Frank and Dino pullin' <RATING>"
+User_11,3.0,3.34,1.45,1.63,"Eh, yuh talkin' bout mah town, oh wow! A great townie bar wukin' with tasty food an' intereshtin' peeps. Ah went dere on mah way home from de airport on Thursday night an' mah eyes jus' lit up! It's nice to go into a townie bar an' not feel like de music stops a... 
+
+An' mah sandwiches? Dat be reuben, mah favorite. Ah say, ah can't believe how good mah sandwich be! Ah ain't got no problem wit' dis place at all.
+
+Aw, but ah gotta say, mah server ah was de only one dere. An' ah couldn't blame mahself, cause mah sandwiches took about an hour <RATING>"
+User_12,5.0,2.42,2.03,2.03,"Ahoy! Ahoy! Dis nonta na hiant bayyana, bayyana! Mo na fahoon mo gaba na bayyana na Alexions, na Alexions na nitori da nitori daga duniya. Mo na kawai, mo na wata ne da nitori da duniya. 
+
+Na kai na Alexions, mo na fi ya bayyana da nitori. Ya bayyana na cheeseburger, ya bayyana na Italian bread da ya bayyana da ya baar da gril. Ya bayyana da ya service, ya bayyana da ya food, ya bayyana da ya wings. Ya bayyana da ya atmosphere, mo na <RATING>"
+User_13,1.0,3.42,1.84,2.36,"Ahh, ya know, dese tatas dem, dey tek jẹ ohun mo ti gba ohun ọdọ! Dem yẹn jẹ ọdọ ni 4 mid-lóo tires fún Toyota, ohun mi gbé 400 dolér! Dem wáa fún tata ọdọ na ọrọ díẹ́sọ jẹ ọdọ ni 3 wààtọ́. Deẹ́kùn, wáa jẹ ọdọ ọ̀nà dááré àwọn ẹ̀kú. Dem wáa láàrín mìíràn láà <RATING>"
+User_14,2.0,1.86,2.2,2.53,"Eh, wot you sayin' bout mah new deck? Dat's de good part, yeah? But, ah, dat's where mah story starts, see. Ah had mahs come out in May tu talk tu us 'bout de process. Ahs man, Al, he was a true salesman, ah'm tellin' yuh. Not a straight shooter, but a happy man who wan na sell. Ah bought into it, ya know, ah felt confiden'. Ahs booked it, ah remember, ahs bookin' it. 
+
+Ah feel like it should be a four-star, but ah's jus' givin' it two 'cause mahs ahs still workin' on mah <RATING>"
+User_15,4.0,2.94,2.42,2.3,"Yo! Hoofah, naa. A big fan obi King's. Dis one is as good as mah ol' one in Monaca. Mah love for King's never fades. Ya hear? Mo fe lovin' it. <RATING>"
